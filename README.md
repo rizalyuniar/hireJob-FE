@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Hire Job</h3>
   <p align="center">
-    <a href="https://github.com/rrizalyuniar/HireJob-FE/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/HireJob-FE/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://hiree-job.vercel.app/">View Demo</a>
     ·
@@ -66,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/rrizalyuniar/HireJob-FE.git
+git clone https://github.com/rizalyuniar/HireJob-FE.git
 ```
 
 - Go To Folder Repo
@@ -157,9 +157,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Hire Job`](https://github.com/rrizalyuniar/hireJob-BE/)
+:rocket: [`Backend Hire Job`](https://github.com/rizalyuniar/hireJob-BE/)
 
-:rocket: [`Frontend Hire Job`](https://github.com/rrizalyuniar/hireJob-FE/)
+:rocket: [`Frontend Hire Job`](https://github.com/rizalyuniar/hireJob-FE/)
 
 :rocket: [`Demo Hire Job`](https://hiree-job.vercel.app/)
 
@@ -169,4 +169,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : rizalyuniar123@gmail.com
 
-Project Link: [https://github.com/rrizalyuniar/HireJob-FE/](https://github.com/rrizalyuniar/HireJob-FE/)
+Project Link: [https://github.com/rizalyuniar/HireJob-FE/](https://github.com/rizalyuniar/HireJob-FE/)
